@@ -15,14 +15,19 @@ Day 3:
 - Evaluated models using accuracy, confusion matrix, and ROC-AUC.
 - Compared model results and visualized performance with ROC curves.
 
+Day 4:
+- Trained Decision Tree, Random Forest, and k-NN models on the burnout dataset.  
+- Applied feature selection to keep only the top 3 features and compared model accuracy before and after.  
+
 Notebooks:
 - Day1.ipynb: Data cleaning and exploration
 - Day2.ipynb: Feature encoding and preprocessing
 - Day3.ipynb: Classification models and evaluation
+- Day4.ipynb: Tree-based models, k-NN, and feature selection
 
 Tools & Libraries Used:
 - Python (Kaggle Notebook)
 - pandas for data handling
 - numpy for numerical computations
 - scikit-learn for preprocessing, feature selection, and machine learning models
-- matplotlib and seaborn for visualization 
+- matplotlib and seaborn for visualization
