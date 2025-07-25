@@ -25,6 +25,8 @@ Cylce 2
 | Day 7 | Trained Linear, RBF, and Polynomial SVMs on the Credit Card dataset. Visualized 2D PCA components and compared model accuracy.                                                                                                |
 | Day 8 | Clustered the Iris dataset using k-Means and Hierarchical methods. Visualized results with PCA. Explained real-world use cases.                                                                                               |
 | Day 9 | Transformed text data using TF-IDF and reduced its dimensionality with SVD. Visualized the first two components and optionally clustered into 20 groups using KMeans. Silhouette score was used to assess clustering quality.|
+| Day 10 | Applied KFold cross-validation and plotted learning curves for SVM on the Iris dataset. Analyzed bias-variance tradeoff and discussed underfitting vs overfitting cases.                                                   |
+
 ---
 
 ##  Repository Contents
@@ -38,6 +40,8 @@ Cylce 2
 * Phase2.ipynb – Support Vector Machines (SVM)
 * Phase3.ipynb – Clustering (Iris Dataset)
 * Phase4.ipynb – Text Clustering with TF-IDF + SVD
+* Phase5.ipynb – Model Validation & Selection with SVM
+
 
 ---
 
