@@ -1,4 +1,4 @@
-
+Here’s the updated progress including **Phase 3** for today:
 
 ## Daily Progress
 
@@ -29,6 +29,7 @@
 |---------|---------|
 | Phase 1 | Built a Book Dropout Predictor using a custom Multilayer Perceptron (MLP) in PyTorch. Processed the Goodbooks-10K dataset, engineered numerical features, and predicted whether a user would finish a book. Visualized training loss and evaluated accuracy, precision, recall, and F1-score. |
 | Phase 2 | Developed a Facial Emotion Recognition model using a Convolutional Neural Network (CNN) on the FER2013 image dataset. Applied data augmentation, normalization, dropout, and batch normalization. Evaluated accuracy, plotted confusion matrix, and visualized sample correct and incorrect predictions. |
+| **Phase 3** | Implemented a Text-based Emotion Recognition pipeline using an LSTM model. Processed the `tweet_emotions.csv` dataset with tokenization, padding, and embeddings. Trained and evaluated the model using accuracy and F1 score, and demonstrated sample predictions with actual and predicted emotions. |
 
 ## Repository Contents
 
@@ -44,7 +45,8 @@
 - Phase5.ipynb – Model Validation & Selection with SVM  
 - Main_Challenge.ipynb – Tweet Sentiment Analysis using TF-IDF + SVM  
 - Phase1.ipynb – Book Dropout Predictor (PyTorch MLP)  
-- Phase..2.ipynb – Facial Emotion Recognition (PyTorch CNN)
+- Phase..2.ipynb – Facial Emotion Recognition (PyTorch CNN)  
+- Phase3 (1).ipynb – Text-based Emotion Recognition (PyTorch LSTM)
 
 ## Tools and Libraries Used
 
